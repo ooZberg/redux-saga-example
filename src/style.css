@@ -1,0 +1,32 @@
+body {
+  margin: 0px;
+}
+
+a {
+  color: #42b983;
+  text-decoration: none;
+  padding: 2px 8px;
+}
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+
+.todo-item {
+  border: 1px solid #333;
+  padding: 20px 20px;
+  margin: 20px 20px;
+  float: left;
+  width: 200px;
+  height: 100px;
+}
+
+.todo-number {
+  font-size: 20px;
+  font-weight: 700;
+  padding: 0px 10px;
+}
